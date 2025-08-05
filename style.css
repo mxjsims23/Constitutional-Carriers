@@ -9,7 +9,7 @@ body {
 
 header {
     padding: 40px 20px;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.95);
     color: black;
 }
 
@@ -55,12 +55,12 @@ section {
     padding: 40px 20px;
     max-width: 800px;
     margin: auto;
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: rgba(255, 255, 255, 0.88);
     color: black;
 }
 
 footer {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.95);
     text-align: center;
     padding: 20px;
     font-size: 0.9em;
